@@ -30,7 +30,6 @@ func part1(lines []string) {
 	fmt.Println(count)
 }
 
-
 func part2(lines []string) {
 	count := 0
 	isCommon := false
