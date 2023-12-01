@@ -29,6 +29,7 @@
               modules = [
                 {
                   languages.go.enable = true;
+                  languages.rust.enable = true;
 
                   enterShell = ''
                   '';
