@@ -30,6 +30,7 @@
                 {
                   languages.go.enable = true;
                   languages.rust.enable = true;
+                  difftastic.enable = true;
 
                   enterShell = ''
                   '';
