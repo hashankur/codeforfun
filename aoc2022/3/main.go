@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unicode"
 
-	"github.com/hashankur/codeforfun/languages/go/util"
+	"github.com/hashankur/codeforfun/aoc2022/util"
 )
 
 func main() {
