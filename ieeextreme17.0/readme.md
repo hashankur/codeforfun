@@ -6,7 +6,7 @@
 
 - Dumindu Gamage
 - Sunera Manimendra
-- Hashan Kurukulauriya
+- Hashan Kurukulasuriya
 
 Uploaded here are the problems I tried during the competition. The solutions are in Python.
 
