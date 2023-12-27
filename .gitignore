@@ -3,3 +3,7 @@
 
 # Rust
 target
+
+# [AOC] Remove puzzle inputs -> https://adventofcode.com/about#legal
+*.txt
+
