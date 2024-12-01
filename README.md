@@ -8,6 +8,7 @@ Answers are organized by year. Each year has its own directory, and each directo
 
 | Year | Language |
 | ---- | -------- |
+| 2024 | Gleam    |
 | 2023 | Rust     |
 | 2022 | Go       |
 
